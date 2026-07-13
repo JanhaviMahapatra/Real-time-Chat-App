@@ -1,1 +1,1 @@
-<img src="./frontend/assets/home.png" alt="Home Page" width="800">
+<img src="./frontend/src/assets/home.png" alt="Home Page" width="800">
